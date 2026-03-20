@@ -10,6 +10,8 @@ int main(void){
 
     printf("Nome: Leonardo Figueredo dos Santos");
     printf("\n");
+    printf("Idade: 17 anos");
+    printf("\n");
 
     return 0;
 }
