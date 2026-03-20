@@ -14,6 +14,11 @@ int main(void){
     printf("\n");
     printf("Altura: 176 cm");
     printf("\n \n");
+    
+    printf("Nome: Leonardo Soares Rodrigues");
+    printf("\n");
+
+
 
     return 0;
 }
