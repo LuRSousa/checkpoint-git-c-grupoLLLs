@@ -12,6 +12,8 @@ int main(void){
     printf("\n");
     printf("Idade: 17 anos");
     printf("\n");
+    printf("Altura: 176 cm");
+    printf("\n \n");
 
     return 0;
 }
