@@ -5,6 +5,8 @@ int main(void){
     printf("\n");
     printf("Idade: 18 anos");
     printf("\n");
+    printf("Altura: 169 cm");
+    printf("\n \n");
 
     return 0;
 }
