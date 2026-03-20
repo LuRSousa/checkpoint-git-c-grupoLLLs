@@ -8,5 +8,8 @@ int main(void){
     printf("Altura: 169 cm");
     printf("\n \n");
 
+    printf("Nome: Leonardo Figueredo dos Santos");
+    printf("\n");
+
     return 0;
 }
